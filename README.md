@@ -5,3 +5,5 @@ Day 74 - Advanced - Aggregate & Merge Data with Pandas - Analyse the LEGO Datase
 
 Specific (and short) notes and titles written in main.py.
   Unfinished practice (02/09/2024); update tomorrow.
+    Finished practice (03/09/2024); updated.
+    
